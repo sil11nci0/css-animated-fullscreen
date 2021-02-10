@@ -1,1 +1,2 @@
-# This is animated fullscreen
+# Animated fullscreen
+
